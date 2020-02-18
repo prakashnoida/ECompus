@@ -1,0 +1,26 @@
+http://autoborocar.markupdesigns.org/admin
+
+----------------------------------------
+Landing page
+http://autoborocar.markupdesigns.org/
+---------------------------------------
+
+
+Admin Login
+---------------------------
+http://autoborocar.markupdesigns.org/admin
+Email : autoboro@yopmail.com
+Password : 123456
+
+Business Login
+---------------------------
+http://autoborocar.markupdesigns.org/login
+Email : business@yopmail.com
+Password : 123456
+
+
+Driver Login
+---------------------------
+http://autoborocar.markupdesigns.org/login
+Email : driver@yopmail.com
+Password : 123456
